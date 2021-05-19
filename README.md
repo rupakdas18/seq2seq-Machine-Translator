@@ -11,3 +11,8 @@ Bilingual Evaluation Understudy (BLEU) is used to evaluate NMT. It compares mach
 
 # DataSet:
 English-Spanish dataset is used from this data source: https://www.statmt.org/europarl/
+
+
+# Inspired by:
+
+CS 5642  Advanced NLP and https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html 
